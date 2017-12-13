@@ -51,7 +51,7 @@
 5: fënneft;
 6: sechst;
 7: siwent;
-8: aachtel;
+8: aacht;
 9: =%spellout-numbering=t;
 20: =%spellout-numbering=st;
 %spellout-numbering-year:
